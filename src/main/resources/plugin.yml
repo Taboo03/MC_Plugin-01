@@ -1,0 +1,5 @@
+name: MC_Plugin-01
+version: '${version}'
+main: org.taboo03.mc_plugin01.MC_Plugin_01
+api-version: '1.20'
+authors: [Taboo03]
